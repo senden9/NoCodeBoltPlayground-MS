@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 0738a0abc6f99a740aff5b8e58bc27a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1533420070345620793
+    second: LogoHtlWeb_0
+  - first:
+      213: -3163502435580889878
+    second: LogoHtlWeb_1
+  - first:
+      213: 7445813272822268454
+    second: LogoHtlWeb_2
+  - first:
+      213: 6972903871206052662
+    second: LogoHtlWeb_3
+  - first:
+      213: 7007171593765980316
+    second: LogoHtlWeb_4
+  - first:
+      213: -6100072921060662622
+    second: LogoHtlWeb_5
+  - first:
+      213: 4417656675560777654
+    second: LogoHtlWeb_6
+  - first:
+      213: -2499844071055755731
+    second: LogoHtlWeb_7
+  - first:
+      213: 7146765580205840765
+    second: LogoHtlWeb_8
+  - first:
+      213: 6935693909999239642
+    second: LogoHtlWeb_9
+  - first:
+      213: 5282371907411851918
+    second: LogoHtlWeb_10
+  - first:
+      213: 3797783525195599419
+    second: LogoHtlWeb_11
+  - first:
+      213: 6188522498153542375
+    second: LogoHtlWeb_12
+  - first:
+      213: -3475890099807737409
+    second: LogoHtlWeb_13
+  - first:
+      213: 4383821001024159344
+    second: LogoHtlWeb_14
+  - first:
+      213: -1913484458381205399
+    second: LogoHtlWeb_15
+  - first:
+      213: 5389345154492464178
+    second: LogoHtlWeb_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoHtlWeb_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 273
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c24897029238bae0800000000000000
+      internalID: -1533420070345620793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da0de582c3719c147ab9082ffb14faae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LogoHtlWeb_0: -1533420070345620793
+      LogoHtlWeb_1: -3163502435580889878
+      LogoHtlWeb_10: 5282371907411851918
+      LogoHtlWeb_11: 3797783525195599419
+      LogoHtlWeb_12: 6188522498153542375
+      LogoHtlWeb_13: -3475890099807737409
+      LogoHtlWeb_14: 4383821001024159344
+      LogoHtlWeb_15: -1913484458381205399
+      LogoHtlWeb_16: 5389345154492464178
+      LogoHtlWeb_2: 7445813272822268454
+      LogoHtlWeb_3: 6972903871206052662
+      LogoHtlWeb_4: 7007171593765980316
+      LogoHtlWeb_5: -6100072921060662622
+      LogoHtlWeb_6: 4417656675560777654
+      LogoHtlWeb_7: -2499844071055755731
+      LogoHtlWeb_8: 7146765580205840765
+      LogoHtlWeb_9: 6935693909999239642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
